@@ -1,0 +1,24 @@
+# 自动同步内容至 Gitee 仓库
+name: Sync Github Repos To Gitee
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Sync Github Repos To Gitee             # 名字随便起
+      uses: Yikun/hub-mirror-action@master         # 使用 Yikun/hub-mirror-action 进行同步, 不可修改
+      with:
+        src: github/xchsdo                         # 源端账户名(github) * 必填
+        dst: gitee/xchsdo                          # 目的端账户名(gitee) * 必填
+        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  # SSH密钥对中的私钥   * 必填
+        dst_token:  ${{ secrets.GITEE_TOKEN }}     # Gitee账户的私人令牌 * 必填
+        account_type: user                         # 账户类型
+        clone_style: "ssh"                         # 使用https方式进行clone, 也可以使用ssh
+        debug: true                                # 启用后会显示所有执行命令
+        force_update: true                         # 启用后, 强制同步, 即强制覆盖目的端仓库
+        black_list: ".github"                      # 启动黑名单, 黑名单的内容不同步, 如"repo1,repo2,repo3"
+        static_list: "autoMap"                     # 静态同步列表, 在此填写需要同步的仓库名称, 可填写多个, 如"repo1,repo2,repo3"
+        timeout: '600s'                            # git超时设置, 超时后会自动重试git操作, '600'=>600s, '30m'=>30 mins, '1h'=>1 hours
