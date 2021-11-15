@@ -607,6 +607,13 @@
 + [V2.8.2.1388](https://mapdownload.autonavi.com/amapauto/apk/autobasic/guanwangV2.8.2.1388.apk)
 
 ## 高德地图 - 地图数据
+#### 时间：v2021-11-15
+* 大小：10.2G
+* 版本：v3.x公众版
+* 支持：v2.8.2及以上
+* MD5：1672d18cee700d07e901c4a5581796b4
+* 下载地址： [点我开始下载](https://offlinedata.alicdn.com/auto/offlinemap/unifyCompile/guanwang/output/2bbo0ngt2m1gqa1yzn1m0pwt2c1t7eld0as1qf5s1td/quanguo.zip)
+
 #### 时间：v2021-10-13
 * 大小：10G
 * 版本：v3.x公众版
