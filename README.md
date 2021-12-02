@@ -1,7 +1,7 @@
 ## 高德地图 - APP
 #### 版本：V5.6.0
 > AUTO V5.6.0 公测版 2021-11-04 全新发布, 欢迎各位高铁使用
-1. 大小：69.65 MB
+1. 大小：69.7 MB
 2. 时间：2021-11-18 正式版发布
 3. 介绍：AUTO V5.6.0 公测版 2021-11-04 全新发布, 欢迎各位高铁使用
 4. 官网：[高德地图车机版][autoAmap]
@@ -18,6 +18,8 @@
       2. 优化路线拥堵信息
 7. APP下载地址
    * 车 机 版
+      + 2021-11-23
+         + [V5.6.0.600244](https://mapdownload.autonavi.com/apps/auto/manual/V560/Auto_5.6.0.600244_release.apk)
       + 2021-11-18
          + [V5.6.0.600185](https://mapdownload.autonavi.com/apps/auto/manual/V560/Auto_5.6.0.600185_release.apk)
       + 2021-11-11
