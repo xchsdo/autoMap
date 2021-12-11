@@ -27,6 +27,8 @@
       + 2021-11-04
          + [V5.6.0.600108](https://mapdownload.autonavi.com/apps/auto/manual/V560/Auto_5.6.0.600108_beta.apk)
    * 车 镜 版
+      + 2021-12-10
+         + [V5.6.0.600021](https://mapdownload.autonavi.com/apps/auto/manual/mirror/Auto_5.6.0.600021_AutoLite_GuanWang_signed.apk)
 
 #### 版本：V5.5.0
 > AUTO V5.5.0 众测版2021-09-01发布，欢迎各位高铁使用~
