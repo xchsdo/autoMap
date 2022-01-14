@@ -13,6 +13,8 @@
       + 新增车间距抓拍、限行、违规用灯等电子眼，种类更丰富，播报更贴心
       + ![优化电子眼种类与播报](Resources/images/v6.0.0/2.png "优化电子眼种类与播报")
 6. 更新日志：
+   - 2022-01-12
+      1. 修复车道线显示异常、软件崩溃等问题
    - 2022-01-06
       1. 修复路口大图无箭头问题
       2. 优化夜间图面太黑问题
@@ -22,6 +24,8 @@
       2. 优化电子眼种类与播报
 7. APP下载地址
    * 车 机 版
+      + 2022-01-12 测试版
+         + [V6.0.0.600444](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600444_release_signed.apk)
       + 2022-01-06 测试版
          + [V6.0.0.600420](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600420_release_signed.apk)
       + 2021-12-24 内测版
