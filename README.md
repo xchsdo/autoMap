@@ -1,3 +1,24 @@
+<div align="center">
+    <code><img src="https://profile-counter.glitch.me/xchsdo/count.svg"></code>
+    </br></br>
+    <code><a href="https://www.iiylw.com"><img src="https://img.shields.io/badge/blog-iiylw.com-success?style=flat&logo=Google Maps" /></a></code>
+    <code><img src="https://img.shields.io/badge/Wechat-iiylwcom-brightgreen?style=flat&logo=wechat"></code>
+    <code><img src="https://img.shields.io/badge/QQ-81409551-blue?style=flat&logo=tencentqq"></code>
+    </br></br>
+    <code><img src="https://img.shields.io/badge/E.mail-admin@iiylw.com-ff69b4?style=flat&logo=Mail.Ru"></code></br></br>
+    <code><a href="https://gitee.com/xchsdo"><img src="https://img.shields.io/badge/Gitee-xchsdo-orange?style=flat&logo=gitee" /></a></code>
+    <code><a href="https://github.com/xchsdo"><img src="https://img.shields.io/badge/Github-xchsdo-red?style=flat&logo=github" /></a></code>
+    <code><a href="https://gitlab.com/xchsdo"><img src="https://img.shields.io/badge/Gitlab-xchsdo-orange?style=flat&logo=gitlab" /></a></code>
+    </br></br>
+    <code><a href="https://github.com/xchsdo/autoMap"><img src="https://img.shields.io/github/stars/xchsdo"></a></code>
+    <code><a href="https://github.com/xchsdo/autoMap"><img src="https://img.shields.io/github/followers/xchsdo"></a></code>
+    <code><a href="https://github.com/xchsdo/autoMap"><img src="https://img.shields.io/github/issues/xchsdo/autoMap"></a></code>
+    <code><a href="https://github.com/xchsdo/autoMap"><img src="https://visitor-badge.glitch.me/badge?page_id=xchsdo.autoMap"></a></code>
+    <code><a href="https://github.com/xchsdo/autoMap"><img src="https://img.shields.io/github/forks/xchsdo/autoMap"></a></code>
+    </br></br>
+    <code><a href="https://github.com/xchsdo/autoMap/blob/master/LICENSE"><img src="https://img.shields.io/github/license/xchsdo/autoMap"></a></code>
+</div>
+
 ## 高德地图 - APP
 #### 版本：V6.0.0
 > AUTO V6.0.0 内测版 2021-12-24 全新发布, 欢迎各位高铁使用
