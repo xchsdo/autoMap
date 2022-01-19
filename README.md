@@ -34,6 +34,13 @@
       + 新增车间距抓拍、限行、违规用灯等电子眼，种类更丰富，播报更贴心
       + ![优化电子眼种类与播报](Resources/images/v6.0.0/2.png "优化电子眼种类与播报")
 6. 更新日志：
+   - 2022-01-19
+      1. 手车互联场景，不显示电子眼和路口大图问题
+      2. 车标显示过小问题
+      3. 车头方向朝向错误问题
+      4. 手车互联，不自动发起导航问题
+      5. 悬浮球压盖问题
+      6. 崩溃卡死等问题
    - 2022-01-12
       1. 修复车道线显示异常、软件崩溃等问题
    - 2022-01-06
@@ -45,6 +52,8 @@
       2. 优化电子眼种类与播报
 7. APP下载地址
    * 车 机 版
+      + 2022-01-12 测试版
+         + [V6.0.0.600475](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600475_release.apk)
       + 2022-01-12 测试版
          + [V6.0.0.600444](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600444_release_signed.apk)
       + 2022-01-06 测试版
@@ -667,6 +676,13 @@
 + [V2.8.2.1388](https://mapdownload.autonavi.com/amapauto/apk/autobasic/guanwangV2.8.2.1388.apk)
 
 ## 高德地图 - 地图数据
+#### 时间：v2022-01-19
+* 大小：10.1G
+* 版本：v3.x公众版
+* 支持：v2.8.2及以上
+* MD5：a7c6ccb17024805ddb9f8732c533dde7
+* 下载地址： [点我开始下载](https://offlinedata.alicdn.com/auto/offlinemap/unifyCompile/guanwang/output/2iw0rpw2bor2faz0b1zuq1gjz3c2y0br2yr2r4dah0d/quanguo.zip)
+
 #### 时间：v2021-12-15
 * 大小：10.2G
 * 版本：v3.x公众版
