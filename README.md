@@ -52,7 +52,9 @@
       2. 优化电子眼种类与播报
 7. APP下载地址
    * 车 机 版
-      + 2022-01-19 测试版
+      + 2022-02-19 正式版
+         + [V6.0.0.600619](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600619_release.apk)
+      + 2022-01-19 正式版
          + [V6.0.0.600475](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600475_release.apk)
       + 2022-01-12 测试版
          + [V6.0.0.600444](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600444_release_signed.apk)
