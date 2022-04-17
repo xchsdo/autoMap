@@ -20,6 +20,40 @@
 </div>
 
 ## 高德地图 - APP
+#### 版本：V6.1.0
+> AUTO V6.1.0 众测版 2022-04-14 全新发布, 欢迎各位高铁使用
+1. 大小：72.5 MB
+2. 时间：2022-03-17 测试版 发布
+3. 介绍：AUTO V6.1.0 测试版 2022-03-17 全新发布, 欢迎各位高铁使用
+4. 官网：[高德地图车机版][autoAmap]
+5. 亮点详解：
+   1. 首页升级更懂你，一键出发更高效
+      + 回家、去洗车、去搜过的地方......小德想你所想，首页快速出发
+      + ![回家、去洗车、去搜过的地方......小德想你所想，首页快速出发](Resources/images/v6.1.0/1.jpg "回家、去洗车、去搜过的地方......小德想你所想，首页快速出发")
+   2. 路线标签上新啦，选择从此更简单
+      + 新增车间距抓拍、限行、违规用灯等电子眼，种类更丰富，播报更贴心
+      + ![时间短、大路多、收费少，路线标签更丰富，路线特点更明确](Resources/images/v6.1.0/2.jpg "时间短、大路多、收费少，路线标签更丰富，路线特点更明确")
+6. 更新日志：
+   - 2022-04-14
+      1. 部分场景崩溃问题修复
+      2. 备选路线展示错误问题修复
+      3. 其他问题修复
+   - 2022-03-31
+      1. 修复了路口大图路牌无字问题
+      2. 修复了行中场景备选路线标签问题
+   - 2022-03-17
+      1. 首页焕新，外观全面升级
+      2. 路线标签更新，选择更简单
+7. APP下载地址
+   * 车 机 版
+      + 2022-04-14 众试版
+         + [V6.1.0.600251](https://mapdownload.autonavi.com/apps/auto/manual/V610/Auto_V6.1.0.600251_release_signed.apk)
+      + 2022-03-31 测试版
+         + [V6.1.0.600180](https://mapdownload.autonavi.com/apps/auto/manual/V610/Auto_6.1.0.600180_beta.apk)
+      + 2022-03-17 内测版
+         + [V6.1.0.600014](https://mapdownload.autonavi.com/apps/auto/manual/V610/AUTO_6.1.0.600014_beta.apk)
+   * 车 镜 版
+
 #### 版本：V6.0.0
 > AUTO V6.0.0 内测版 2021-12-24 全新发布, 欢迎各位高铁使用
 1. 大小：70.5 MB
@@ -678,6 +712,20 @@
 + [V2.8.2.1388](https://mapdownload.autonavi.com/amapauto/apk/autobasic/guanwangV2.8.2.1388.apk)
 
 ## 高德地图 - 地图数据
+#### 时间：v2022-04-12
+* 大小：10.2G
+* 版本：v3.x公众版
+* 支持：v2.8.2及以上
+* MD5：6f0ad00786609e23444195ab89ae98db
+* 下载地址： [点我开始下载](https://offlinedata.alicdn.com/auto/offlinemap/unifyCompile/guanwang/output/2v0l2g2ly0e3zn2zs8c1bnu2geu4dnm9tq1hs7m/quanguo.zip)
+
+#### 时间：v2022-03-28
+* 大小：10.1G
+* 版本：v3.x公众版
+* 支持：v2.8.2及以上
+* MD5：e03dba8585bfb3eca4b64b1fa8be9bb4
+* 下载地址： [点我开始下载](https://offlinedata.alicdn.com/auto/offlinemap/unifyCompile/guanwang/output/2vo0lzs2zy2fja0k2v2gs6l1pa5zmz0plt0dsx1l6u/quanguo.zip)
+
 #### 时间：v2022-02-24
 * 大小：10.2G
 * 版本：v3.x公众版
