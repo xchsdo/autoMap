@@ -53,9 +53,9 @@
       2. 路线标签更新，选择更简单
 7. APP下载地址
    * 车 机 版
-      + 2022-04-21 众试版
+      + 2022-04-21 众测版
          + [V6.1.0.600317](https://mapdownload.autonavi.com/apps/auto/manual/V610/Auto_V6.1.0.600317_release_signed.apk)
-      + 2022-04-14 众试版
+      + 2022-04-14 众测版
          + [V6.1.0.600251](https://mapdownload.autonavi.com/apps/auto/manual/V610/Auto_V6.1.0.600251_release_signed.apk)
       + 2022-03-31 测试版
          + [V6.1.0.600180](https://mapdownload.autonavi.com/apps/auto/manual/V610/Auto_6.1.0.600180_beta.apk)
@@ -95,7 +95,7 @@
       2. 优化电子眼种类与播报
 7. APP下载地址
    * 车 机 版
-      + 2022-02-19 正式版
+      + 2022-02-19 正式版 (已弃用)
          + [V6.0.0.600619](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600619_release.apk)
       + 2022-01-19 正式版
          + [V6.0.0.600475](https://mapdownload.autonavi.com/apps/auto/manual/V600/Auto_V6.0.0.600475_release.apk)
