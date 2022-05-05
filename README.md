@@ -53,6 +53,8 @@
       2. 路线标签更新，选择更简单
 7. APP下载地址
    * 车 机 版
+      + 2022-04-28 正式版
+         + [V6.1.0.600437](https://mapdownload.autonavi.com/apps/auto/manual/V610/Auto_V6.1.0.600437_release_signed.apk)
       + 2022-04-21 众测版
          + [V6.1.0.600317](https://mapdownload.autonavi.com/apps/auto/manual/V610/Auto_V6.1.0.600317_release_signed.apk)
       + 2022-04-14 众测版
