@@ -43,6 +43,8 @@
       3. 一键查询周边美食优惠好店
 7. APP下载地址
    * 车 机 版
+      + 2022-07-20 测试版
+         + [V6.2.0.601098](https://mapdownload.autonavi.com/apps/auto/manual/V620/Auto_V6.2.0.601098_release_signed.apk)
       + 2022-06-27 内测版
          + [V6.2.0.600914](http://mapdownload.autonavi.com/apps/auto/manual/V620/Auto_6.2.0.600914_alpha.apk)
    * 车 镜 版
