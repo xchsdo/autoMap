@@ -13,7 +13,6 @@
     <code><a href="https://github.com/xchsdo/autoMap"><img src="https://img.shields.io/github/stars/xchsdo"></a></code>
     <code><a href="https://github.com/xchsdo/autoMap"><img src="https://img.shields.io/github/followers/xchsdo"></a></code>
     <code><a href="https://github.com/xchsdo/autoMap"><img src="https://img.shields.io/github/issues/xchsdo/autoMap"></a></code>
-    <code><a href="https://github.com/xchsdo/autoMap"><img src="https://visitor-badge.glitch.me/badge?page_id=xchsdo.autoMap"></a></code>
     <code><a href="https://github.com/xchsdo/autoMap"><img src="https://img.shields.io/github/forks/xchsdo/autoMap"></a></code>
     </br></br>
     <code><a href="https://github.com/xchsdo/autoMap/blob/master/LICENSE"><img src="https://img.shields.io/github/license/xchsdo/autoMap"></a></code>
