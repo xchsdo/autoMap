@@ -42,6 +42,8 @@
       + 字号大小随心换，使用更舒心
       + ![字号大小随心换，使用更舒心](Resources/images/v6.5.0/5.png "字号大小随心换，使用更舒心")
 6. 更新日志：
+   - 2022-11-11
+      1. 修复了部分已知问题
    - 2022-09-29
       1. 等灯时间全掌握，智慧出行更高效
       2. 比静音更安心，比简洁更话少
@@ -50,6 +52,14 @@
       5. 字号大小随心换，使用更舒心
 7. APP下载地址
    * 车 机 版
+      + 2022-11-30 正式版
+         + [V6.5.0.601571](https://mapdownload.autonavi.com/apps/auto/manual/V650/Auto_V6.5.0.601571_release.apk)
+      + 2022-11-19 内测版
+         + [V6.5.0.601472]()
+      + 2022-11-18 内测版
+         + [V6.5.0.601431]()
+      + 2022-11-11 内测版
+         + [V6.5.0.601392](https://mapdownload.autonavi.com/apps/auto/manual/V650/Auto_V650.601392_release_signed.apk)
       + 2022-09-30 众测版
          + [V6.5.0.601328](https://mapdownload.autonavi.com/apps/auto/manual/V650/Auto_6.5.0.601328_release_signed.apk)
       + 2022-09-29 众测版
@@ -83,9 +93,9 @@
       + 2022-08-31 测试版
          + [V6.3.0.600487](https://mapdownload.autonavi.com/apps/auto/manual/V630/Auto_V6.3.0.600487_beta.apk)
       + 2022-08-24 测试版
-         + [V6.3.0.600478](http://mapdownload.autonavi.com/apps/auto/manual/V630/Auto_V6.3.0.600478_beta.apk)
+         + [V6.3.0.600478](https://mapdownload.autonavi.com/apps/auto/manual/V630/Auto_V6.3.0.600478_beta.apk)
       + 2022-08-12 内测版
-         + [V6.3.0.600460](http://mapdownload.autonavi.com/apps/auto/manual/V630/Auto_6.3.0.600460_beta.apk)
+         + [V6.3.0.600460](https://mapdownload.autonavi.com/apps/auto/manual/V630/Auto_6.3.0.600460_beta.apk)
    * 车 镜 版
 
 #### 版本：V6.2.0
@@ -120,7 +130,7 @@
       + 2022-07-20 测试版
          + [V6.2.0.601098](https://mapdownload.autonavi.com/apps/auto/manual/V620/Auto_V6.2.0.601098_release_signed.apk)
       + 2022-06-27 内测版
-         + [V6.2.0.600914](http://mapdownload.autonavi.com/apps/auto/manual/V620/Auto_6.2.0.600914_alpha.apk)
+         + [V6.2.0.600914](https://mapdownload.autonavi.com/apps/auto/manual/V620/Auto_6.2.0.600914_alpha.apk)
    * 车 镜 版
 
 #### 版本：V6.1.0
@@ -282,7 +292,7 @@
       + 2021-09-15
          + [V5.5.0.600246](https://mapdownload.autonavi.com/apps/auto/manual/V550/Auto_5.5.0.600246_beta.apk)
       + 2021-09-01
-         + [V5.5.0.600109](http://mapdownload.autonavi.com/apps/auto/manual/V550/Auto_5.5.0.600109_beta.apk)
+         + [V5.5.0.600109](https://mapdownload.autonavi.com/apps/auto/manual/V550/Auto_5.5.0.600109_beta.apk)
    * 车 镜 版
 
 #### 版本：V5.3.0
@@ -440,7 +450,7 @@
       + 2021-01-28 正式版
          + [V5.0.0.600062](https://mapdownload.autonavi.com/apps/auto/manual/V500/guanwangV5.0.0.600062_0128WWFFG2.apk)
       + 2021-01-20
-         + [V5.0.0.600042](http://mapdownload.autonavi.com/apps/auto/manual/V500/guanwangV5.0.0.600042_0121WWFFG2.apk)
+         + [V5.0.0.600042](https://mapdownload.autonavi.com/apps/auto/manual/V500/guanwangV5.0.0.600042_0121WWFFG2.apk)
       + 2021-01-15
          + [V5.0.0.600022](https://mapdownload.autonavi.com/apps/auto/manual/V500/guanwangV5.0.0.600022_0113WWFFG2.apk)
       + 2021-01-04
@@ -624,7 +634,7 @@
       + 2020-00-00
          + [V4.6.0.600838](https://mapdownload.autonavi.com/amapauto/apk/autobasic/Auto_4.6.0.600838.apk)
       + 2020-00-00
-         + [V4.6.0.600804](http://mapdownload.autonavi.com/amapauto/apk/autobasic/guanwangV4.6.0.600804_0622WERW31.apk)
+         + [V4.6.0.600804](https://mapdownload.autonavi.com/amapauto/apk/autobasic/guanwangV4.6.0.600804_0622WERW31.apk)
       + 2020-06-16
          + [V4.6.0.600787](https://mapdownload.autonavi.com/amapauto/apk/autobasic/guanwangV4.6.0.600787_0616TSEW31.apk)
       + 2020-00-00
@@ -1101,7 +1111,7 @@
 #### 版本：V5.0.1
 1. 大小：129.0 MB
 2. 时间：2021-08-10
-3. 官网：<http://map.baidu.com/car/download.html> / <http://mapauto.baidu.com>
+3. 官网：<https://map.baidu.com/car/download.html> / <https://mapauto.baidu.com>
 4. 更新日志：
    1. 支持分城市下载
    2. 交互设计优化 动态HMI适配更多屏幕
@@ -1115,7 +1125,7 @@
 #### 版本：V3.1.0
 1. 大小：43.6M
 2. 时间：2019-04-26
-3. 官网：<http://map.baidu.com/car/download.html> / <http://mapauto.baidu.com>
+3. 官网：<https://map.baidu.com/car/download.html> / <https://mapauto.baidu.com>
 4. 更新日志：
    1. 新巡航模式；
    2. 导航后台悬浮窗；
@@ -1145,7 +1155,7 @@
    1. 优化桌面歌词适配机型
    2. 修复部分缺陷，提升稳定性
 5. APP下载地址
-   + [V1.9.5.18](http://dldir1.qq.com/music/androidcar/qqmusiccar_1.9.5.18_android_release.apk)
+   + [V1.9.5.18](https://dldir1.qq.com/music/androidcar/qqmusiccar_1.9.5.18_android_release.apk)
 ---
 ---
 [autoAmap]: https://auto.amap.com
