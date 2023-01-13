@@ -47,6 +47,8 @@
          * 地图旋转晕？快捷调整视角！
 7. APP下载地址
    * 车 机 版
+      + 2023-01-12 正式版
+         + [V6.6.0.602552](https://mapdownload.autonavi.com/apps/auto/manual/V660/Auto_V6.6.0.602552_release_signed.apk)
       + 2023-01-07 测试版
          + [V6.6.0.602543](https://mapdownload.autonavi.com/apps/auto/manual/V660/Auto_V6.6.0.602543_release_signed.apk)
       + 2022-12-28 测试版
