@@ -1149,7 +1149,7 @@
 #### 版本：V5.0.1
 1. 大小：129.0 MB
 2. 时间：2021-08-10
-3. 官网：<https://map.baidu.com/car/download.html> / <https://mapauto.baidu.com>
+3. 官网：[百度地图车机版][BaiduMapAuto]
 4. 更新日志：
    1. 支持分城市下载
    2. 交互设计优化 动态HMI适配更多屏幕
@@ -1163,7 +1163,7 @@
 #### 版本：V3.1.0
 1. 大小：43.6M
 2. 时间：2019-04-26
-3. 官网：<https://map.baidu.com/car/download.html> / <https://mapauto.baidu.com>
+3. 官网：[百度地图车机版][BaiduMapAuto]
 4. 更新日志：
    1. 新巡航模式；
    2. 导航后台悬浮窗；
@@ -1175,6 +1175,16 @@
 ---
 ---
 ## QQ音乐车机版 - APP
+#### 版本：V1.9.9.3
+1. 大小：11.87 MB
+2. 时间：2023-01-13
+3. 官网：[QQ音乐车机版][qqMusic]
+4. 更新日志：
+   1. 【优化】优化了播放器，提升高品质音乐播放体验
+   2. 【修复】修复了部分网络、播放异常问题
+5. APP下载地址
+   + [V1.9.9.3](https://dldir1.qq.com/music/qqmusiccar/qqmusiccar_1.9.9.3_develop-1.9.9-20230106_2688bc_20230109103748_release.apk)
+
 #### 版本：V1.9.8.22
 1. 大小：12.32 MB
 2. 时间：2021-07-06
@@ -1198,4 +1208,5 @@
 ---
 [autoAmap]: https://auto.amap.com
 [carnaviQq]: https://carnavi.qq.com/download.html
+[BaiduMapAuto]: https://mapauto.baidu.com
 [qqMusic]: https://y.qq.com/download/download.html
