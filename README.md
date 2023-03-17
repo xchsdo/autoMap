@@ -19,6 +19,40 @@
 </div>
 
 ## 高德地图 - APP
+#### 版本：V7.0.0
+> AUTO V7.0.0 测试版 2023-02-22 全新发布, 欢迎各位高铁使用
+1. 大小：80.67 MB
+2. 时间：2023-02-22 测试版 发布
+3. 介绍：AUTO V7.0.0 测试版 2023-02-22 全新发布, 欢迎各位高铁使用
+4. 官网：[高德地图车机版][autoAmap]
+5. 亮点详解：
+   1. 高德足迹，记录你的每一次出行
+      + 高德足迹，记录你的每一次出行
+      + ![高德足迹，记录你的每一次出行](Resources/images/v7.0.0/1.jpg "高德足迹，记录你的每一次出行")
+   2. 道路救援服务上线，高德为您一路护航
+      + 道路救援服务上线，高德为您一路护航
+      + ![道路救援服务上线，高德为您一路护航](Resources/images/v7.0.0/2.jpg "道路救援服务上线，高德为您一路护航")
+6. 更新日志：
+   - 2023-02-22
+      1. 高德足迹，记录你的每一次出行
+         * 导航巡航全纪录，随时随地方便查
+         * 巡航里程数据将于02月23日之后逐步累计
+      2. 道路救援服务上线，高德为您一路护航
+         * 遇到爆胎、故障等情况不要慌，高德救援服务24小时响应、快速到场
+7. APP下载地址
+   * 车 机 版
+      + 2023-03-13 正式版
+         + [V7.0.0.600068](https://mapdownload.autonavi.com/apps/auto/manual/V700/Auto_V7.0.0.600068_release_signed.apk)
+      + 2023-03-09 正式版
+         + [V7.0.0.600066](https://mapdownload.autonavi.com/apps/auto/manual/V700/Auto_V7.0.0.600066_release_signed.apk)
+      + 2023-03-01 众测版
+         + [V7.0.0.600052](https://mapdownload.autonavi.com/apps/auto/manual/V700/Auto_V7.0.0.600052_release_signed.apk)
+      + 2023-02-22 众测版
+         + [V7.0.0.600045](https://mapdownload.autonavi.com/apps/auto/manual/V700/Auto_7.0.0.600045_beta.apk)
+      + 2023-02-10 内测版
+         + [V7.0.0.600007](https://mapdownload.autonavi.com/apps/auto/manual/V700/Auto_7.0.0.600007_alpha.apk)
+   * 车 镜 版
+
 #### 版本：V6.6.0
 > AUTO V6.6.0 测试版 2022-12-26 全新发布, 欢迎各位高铁使用
 1. 大小：82.06 MB
