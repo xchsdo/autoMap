@@ -50,6 +50,8 @@
       4. 搜索界面体验升级，布局优化、信息更全
 7. APP下载地址
    * 车 机 版
+      + 2023-06-08
+         + [V7.1.0.600041](https://mapdownload.autonavi.com/apps/auto/manual/V710/Auto_V7.1.0.600041_release_signed.apk)
       + 2023-06-02
          + [V7.1.0.600033](https://mapdownload.autonavi.com/apps/auto/manual/V710/Auto_V7.1.0.600033_release_signed.apk)
       + 2023-05-31
