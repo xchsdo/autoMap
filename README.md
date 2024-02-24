@@ -46,6 +46,8 @@
       4. 停车后，手机步行导航无缝接续，精准到达，快人一步
 7. APP下载地址
    * 车 机 版
+      + 2024-02-21 正式版
+         + [V7.5.0.600064](http://mapdownload.autonavi.com/apps/auto/manual/V750/Auto_7.5.0.600064_release.apk)
       + 2024-01-25 众试版
          + [V7.5.0.600047](https://mapdownload.autonavi.com/apps/auto/manual/V750/Auto_7.5.0.600047_beta.apk)
       + 2024-01-04 测试版
